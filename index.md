@@ -4,7 +4,7 @@ If you would like to permanently delete your Noteable account and associated dat
 
 ## Steps
 
-1. Send an email to jithinsabu.mec from the same email used in your Noteable account.
+1. Send an email to app.noteable@gmail.com from the same email used in your Noteable account.
 2. Use the subject line: `Account Deletion Request - Noteable`
 3. Your data (email, authentication info, and voice usage logs) will be permanently deleted within **7 days**.
 
